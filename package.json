@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "localstorage-migrator": "^1.0.6"
+    "localstorage-migrator": "^1.0.7"
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
